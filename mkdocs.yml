@@ -1,0 +1,63 @@
+site_name: Booster Bot Docs
+theme:
+  name: "material"
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+  logo: "images/bb.png"
+  custom_dir: docs/overrides
+  favicon: "images/favicon.ico"
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      accent: "orange"
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      accent: "yellow"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: "fontawesome/solid/globe"
+      link: "https://boosterbot.xyz/"
+      name: BoosterBot website
+    - icon: "fontawesome/brands/github-alt"
+      link: "https://github.com/DiabolusGX/mkdocs-boosterbot"
+      name: Github repository
+    - icon: "fontawesome/brands/discord"
+      link: "https://boosterbot.xyz/support"
+      name: Support Server
+  # generator: false # to remove MkDocs footer
+
+repo_name: "boosterbot-docs"
+repo_url: "https://github.com/DiabolusGX/mkdocs-boosterbot"
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - md_in_html
+  - attr_list
+  - footnotes
+  - meta
+
+extra_css:
+  - overrides/stylesheets/extra.css
+
+plugins:
+  - search:
+      separator: '[\s\-\.\_]'
+
+copyright: "Copyright &copy; 2021-2022 Dev Studios"
