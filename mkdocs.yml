@@ -4,6 +4,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
+    - navigation.indexes
     - navigation.tracking
     - navigation.top
     - toc.follow
@@ -24,6 +25,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+nav:
+  - Home:
+    - index.md
+    - Table of contents: summary.md
+    - Basic bot setup: setup.md
+    - FAQs: faq.md
 
 extra:
   social:
