@@ -15,6 +15,14 @@ This repository will have raw `md` source of docs for booster bot.
 
 **Info:** `mkdocs -h` - Print help message and exit.
 
+### How to contribute?
+
+-   You can [create an issue](https://github.com/DiabolusGX/mkdocs-boosterbot/issues/new) of what's missing that you want to add or want us to add OR check [existing issues](https://github.com/DiabolusGX/mkdocs-boosterbot/issues) and find some suggestions by others that you can work on and contribute.
+-   Once you've assigned any issue, you can make changes and raise a [pull request](https://github.com/DiabolusGX/mkdocs-boosterbot/compare) against `dev` branch.
+    **Reference PR:** https://github.com/DiabolusGX/mkdocs-boosterbot/pull/1
+
+> Join support server for more info: https://boosterbot.xyz/support
+
 ### Other MkDocs Commands
 
 -   `mkdocs new [dir-name]` - Create a new project.
