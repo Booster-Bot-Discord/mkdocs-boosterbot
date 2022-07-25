@@ -29,9 +29,11 @@ theme:
 nav:
   - Home:
     - index.md
-    - Table of contents: summary.md
+    # - Table of contents: summary.md
     - Basic bot setup: setup.md
-    - FAQs: faq.md
+    # - FAQs: faq.md
+  - Greet Message:
+    - ./commands/greet.md
 
 extra:
   social:
