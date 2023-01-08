@@ -33,26 +33,25 @@ nav:
     - Basic bot setup: setupguide.md
     # - FAQs: faq.md
   - Setup Commands:
-    - Setup: ./commands/setup.md
-    - Greet: ./commands/greet.md
-    - Rank: ./commands/rank.md
-    - Emoji: ./commands/emoji.md
-    - Stats: ./commands/stats.md
-    - Vars (Variables): ./commands/variables.md
+    - Setup: ./commands/admin/setup.md
+    - Greet: ./commands/admin/greet.md
+    - Rank: ./commands/admin/rank.md
+    - Emoji: ./commands/admin/emoji.md
+    - Stats: ./commands/admin/stats.md
+    - Vars (Variables): ./commands/admin/variables.md
   - Booster Commands:
-    - Custom Roles: ./commands/role.md
-    - Gifting Roles: ./commands/gift.md
-    - Level Roles: ./commands/lvlrole.md
-    - Auto Reaction: ./commands/reaction.md
-    - Boost Level Roles: ./commands/lvlrole.md
-    - Age Roles: ./commands/agerole.md
+    - Custom Roles: ./commands/boosters/role.md
+    - Gifting Roles: ./commands/boosters/gift.md
+    - Level Roles: ./commands/boosters/lvlrole.md
+    - Auto Reaction: ./commands/boosters/reaction.md
+    - Age Roles: ./commands/boosters/agerole.md
   - User Commands:
-    - Guide: ./commands/guide.md
-    - Count: ./commands/count.md
-    - Invite: ./commands/invite.md
-    - Voters: ./commands/voters.md
-    - User Info: ./commands/userinfo.md
-    - Reminders: ./commands/reminder.md
+    - Guide: ./commands/users/guide.md
+    - Count: ./commands/users/count.md
+    - Invite: ./commands/users/invite.md
+    - Voters: ./commands/users/voters.md
+    - User Info: ./commands/users/userinfo.md
+    - Reminders: ./commands/users/reminder.md
 
 extra:
   social:
