@@ -1,8 +1,8 @@
+# Greet Configuration Commands
+
 !!! info
     
     These commands can be executed by Admins and Bot Manager only.
-
-# Greet Configuration Commands
 
 The following commands are used to setup, edit, and remove greet configurations for your Discord server.
 

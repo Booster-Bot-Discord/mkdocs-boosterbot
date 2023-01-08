@@ -1,8 +1,9 @@
+# Stats Commands
+
 !!! info
     
     These commands can be executed by Admins and Bot Manager only.
 
-# Stats Commands
 
 The `bb stats` command allows you to create or update voice channels (VCs) for server booster stats.
 

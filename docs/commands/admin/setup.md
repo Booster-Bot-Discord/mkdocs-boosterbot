@@ -1,16 +1,24 @@
+# Setup Commands
+
 !!! info
     
     These commands can be executed by Admins and Bot Manager only.
 
-# Setup Commands
-
 :   The `bb [setup | set]` command allows you to setup, edit, and remove bot settings.
 
-## Prefix
+## Prefix Setup Command
 
-`bb setup prefix <new prefix>`
+**Usage:** `bb setup prefix <new prefix>`
 
-:   This command sets the prefix for the bot's commands.
+This command sets the prefix for the bot's commands.
+
+**Examples**
+
+| Command                                      | Explanation                                 |
+| -------------------------------------------- | ------------------------------------------- |
+| `bb setup prefix !`                         | Sets the prefix to `!`                      |
+| `bb setup prefix bb`                        | Sets the prefix to `bb`                     |
+
 
 ## Bot Manager
 
