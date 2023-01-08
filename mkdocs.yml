@@ -30,10 +30,29 @@ nav:
   - Home:
     - index.md
     # - Table of contents: summary.md
-    - Basic bot setup: setup.md
+    - Basic bot setup: setupguide.md
     # - FAQs: faq.md
-  - Greet Message:
-    - ./commands/greet.md
+  - Setup Commands:
+    - Setup: ./commands/setup.md
+    - Greet: ./commands/greet.md
+    - Rank: ./commands/rank.md
+    - Emoji: ./commands/emoji.md
+    - Stats: ./commands/stats.md
+    - Vars (Variables): ./commands/variables.md
+  - Booster Commands:
+    - Custom Roles: ./commands/role.md
+    - Gifting Roles: ./commands/gift.md
+    - Level Roles: ./commands/lvlrole.md
+    - Auto Reaction: ./commands/reaction.md
+    - Boost Level Roles: ./commands/lvlrole.md
+    - Age Roles: ./commands/agerole.md
+  - User Commands:
+    - Guide: ./commands/guide.md
+    - Count: ./commands/count.md
+    - Invite: ./commands/invite.md
+    - Voters: ./commands/voters.md
+    - User Info: ./commands/userinfo.md
+    - Reminders: ./commands/reminder.md
 
 extra:
   social:
@@ -62,6 +81,7 @@ markdown_extensions:
   - attr_list
   - footnotes
   - meta
+  - def_list
 
 extra_css:
   - overrides/stylesheets/extra.css
