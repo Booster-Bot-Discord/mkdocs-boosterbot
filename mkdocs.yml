@@ -80,6 +80,7 @@ markdown_extensions:
   - attr_list
   - footnotes
   - meta
+  - def_list
 
 extra_css:
   - overrides/stylesheets/extra.css
