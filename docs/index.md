@@ -2,19 +2,13 @@
 
 #### Useful Links
 
-**|** [Dashboard](https://dashboard.boosterbot.xyz/) **|** [Patreon](https://boosterbot.xyz/premium) **|** [Invite link](https://boosterbot.xyz/invite) **|** [Support server](https://boosterbot.xyz/support)
+`|` [Dashboard](https://dashboard.boosterbot.xyz/) `|` [Patreon](https://boosterbot.xyz/premium) `|` [Invite link](https://boosterbot.xyz/invite) `|` [Support server](https://boosterbot.xyz/support) `|`
 
 ### How do I read this wiki?
 
 !!! danger "Caution"
 
-    Do not literally type out `< >` `[ ]` `|` etc.
-
-    `<>` means you change it so your specific server/needs, like `<message>` , `<channel>` , etc.
-
-    `[]` means the different options you can use ** Don't use them all, its only one of them that you need**.
-
-    `|` seperates the said options. Commonly used to denote different arguments or different aliases of the same command, eg:  `bb [setup|set]`.
+    Do not literally type out `< >` `[ ]` `|` etc
 
 Each category of commands has their own page which can be found on the sidebar.
 
