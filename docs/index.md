@@ -2,7 +2,13 @@
 
 #### Useful Links
 
-`|` [Dashboard](https://dashboard.boosterbot.xyz/) `|` [Patreon](https://boosterbot.xyz/premium) `|` [Invite link](https://boosterbot.xyz/invite) `|` [Support server](https://boosterbot.xyz/support) `|`
+**|** [Dashboard](https://dashboard.boosterbot.xyz/) **|** [Patreon](https://boosterbot.xyz/premium) **|** [Invite link](https://boosterbot.xyz/invite) **|** [Support server](https://boosterbot.xyz/support) **|**
+
+### About Booster Bot
+
+**Manage, track, log & greet the server boosters for you:**
+from sending thankyou/greet message or assigning auto roles on server boost,
+to allowing boosters to maintain their own personal role (editable name, color & icon).
 
 ### How do I read this wiki?
 
