@@ -16,11 +16,11 @@ to allowing boosters to maintain their own personal role (editable name, color &
 
     Do not literally type out `< >` `[ ]` `|` etc.
 
-    `<>` means you change it so your specific server/needs, like `<message>` , `<channel>` , etc.
+    `<>` means this argument is mandatory.
 
-    `[]` means the different options you can use ** Don't use them all, its only one of them that you need**.
+    `[]` means this argument is optional.
 
-    `|` seperates the said options. Commonly used to denote different arguments or different aliases of the same command, eg:  `bb [setup|set]`.
+    `|` means there are multiple options but you need to provide only one.
 
 Each category of commands has their own page which can be found on the sidebar.
 
