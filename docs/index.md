@@ -16,12 +16,6 @@ to allowing boosters to maintain their own personal role (editable name, color &
 
     Do not literally type out `< >` `[ ]` `|` etc.
 
-    `<>` means this argument is mandatory.
-
-    `[]` means this argument is optional.
-
-    `|` means there are multiple options but you need to provide only one.
-
 Each category of commands has their own page which can be found on the sidebar.
 
 -   **Aliases**: [foo|bar] means that you can use either foo or bar.
