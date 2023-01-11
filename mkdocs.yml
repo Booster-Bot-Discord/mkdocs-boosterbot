@@ -29,7 +29,7 @@ theme:
 nav:
   - Home:
     - index.md
-    - Basic bot setup: setupguide.md
+    - Basic bot setup: setup.md
     - FAQs: faq.md
   - Setup Commands:
     - Setup: ./commands/admin/setup.md
