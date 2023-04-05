@@ -32,6 +32,7 @@ nav:
     - Basic bot setup: setup.md
     - FAQs: faq.md
   - Setup Commands:
+    - Private channel: ./commands/admin/privatechannelsetup.md
     - Setup: ./commands/admin/setup.md
     - Greet: ./commands/admin/greet.md
     - Rank: ./commands/admin/rank.md
@@ -42,6 +43,7 @@ nav:
     - Custom Roles: ./commands/boosters/role.md
     - Gifting Roles: ./commands/boosters/gift.md
     - Level Roles: ./commands/boosters/lvlrole.md
+    - Private channel: ./commands/boosters/privatechannel.md
     - Auto Reaction: ./commands/boosters/reaction.md
     - Age Roles: ./commands/boosters/agerole.md
     - Role List: ./commands/boosters/rolelist.md
@@ -50,6 +52,7 @@ nav:
     - Count: ./commands/users/count.md
     - Invite: ./commands/users/invite.md
     - Voters: ./commands/users/voters.md
+    - Premium: ./commands/users/premium.md
     - User Info: ./commands/users/userinfo.md
     - Reminders: ./commands/users/reminder.md
 

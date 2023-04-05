@@ -7,7 +7,7 @@ The `bb [userinfo | info | ui]` command displays information about a user's boos
 ## Examples
 
 `bb userinfo @user`
-:   This command displays boost information for the user mentioned.
+: This command displays boost information for the user mentioned.
 
 `bb userinfo`
-:   This command displays the boost information for the user who ran the command.
+: This command displays the boost information for the user who ran the command.

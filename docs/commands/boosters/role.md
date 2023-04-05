@@ -19,7 +19,7 @@ For boosters, the following subcommands are available:
 `bb role delete`: This command deletes your custom role.
 
 !!! info
-    
+
     The commands below this can be only be used by Admins and Bot Manager.
 
 ## Admin and Bot Manager Options
