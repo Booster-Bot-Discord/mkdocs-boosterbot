@@ -2,7 +2,7 @@
 
 **Usage:** `bb gift <add | remove | return | info> <user>`
 
-The `bb [gift | gift-role | gifts]` command allows you to gift your custom role to other members of the server (assuming you have enough boosts). 
+The `bb [gift | gift-role | gifts]` command allows you to gift your custom role to other members of the server (assuming you have enough boosts).
 
 !!! info
 

@@ -16,16 +16,16 @@ The `bb agerole` command allows you to create booster level roles based on how l
 
 ## Duration Examples
 
-- `1hour:20mins`
-- `1week`
-- `20d`
+-   `1hour:20mins`
+-   `1week`
+-   `20d`
 
 ## Available Units
 
-- `second` | `sec` | `s`
-- `minute` | `min` | `m`
-- `hour` | `hr` | `h`
-- `day` | `d`
-- `week` | `wk` | `w`
-- `month` | `b`
-- `year` | `yr` | `y`
+-   `second` | `sec` | `s`
+-   `minute` | `min` | `m`
+-   `hour` | `hr` | `h`
+-   `day` | `d`
+-   `week` | `wk` | `w`
+-   `month` | `b`
+-   `year` | `yr` | `y`
