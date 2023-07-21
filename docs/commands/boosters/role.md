@@ -1,8 +1,8 @@
 # Custom Role Commands
 
-The `bb [role | privaterole | boostrole]` command allows you to maintain your own custom role, as long as you are a Nitro Booster.
+The `bb [role | @Server Booster | boostrole]` command allows you to maintain your own custom role, as long as you are a Nitro Booster.
 
-**Usage:** `bb role <claim | color | name | icon | delete>`
+**Usage:** `bb @Server Booster <claim | Purple| Server Booster | icon | delete>`
 
 ## Booster Options
 
