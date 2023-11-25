@@ -29,3 +29,5 @@ This repository will have raw `md` source of docs for booster bot.
 -   `mkdocs serve` - Start the live-reloading docs server.
 -   `mkdocs build` - Build the documentation site.
 -   `mkdocs -h` - Print help message and exit.
+
+Use `python -m mkdocs serve` (or other commands with `python -m` prefix) if `The term 'mkdocs' is not recognized` error pops up.

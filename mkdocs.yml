@@ -38,6 +38,8 @@ nav:
     - Rank: ./commands/admin/rank.md
     - Emoji: ./commands/admin/emoji.md
     - Stats: ./commands/admin/stats.md
+    - Private roles: ./commands/admin/privateRoleSetup.md
+    - Private channels: ./commands/admin/privateChannelSetup.md
     - Vars (Variables): ./commands/admin/variables.md
   - Booster Commands:
     - Custom Roles: ./commands/boosters/role.md
@@ -47,6 +49,7 @@ nav:
     - Auto Reaction: ./commands/boosters/reaction.md
     - Age Roles: ./commands/boosters/agerole.md
     - Role List: ./commands/boosters/rolelist.md
+    - Private channels: ./commands/boosters/privateChannel.md
   - User Commands:
     - Guide: ./commands/users/guide.md
     - Count: ./commands/users/count.md
