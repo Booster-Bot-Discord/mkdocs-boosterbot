@@ -4,33 +4,33 @@
 
     These commands can be executed by Admins and Bot Manager only.
 
-: The `bb pcs` command allows you to setup private channels perks for boosters.
+: The `bb pcs` command allows you to set up private channel perks for boosters.
 
 ## Select category
 
 `bb pcs category`
 
-: Set category of current message channel as category under which private channels will be created.
+: Set the category of the current message channel as the category under which private channels will be created.
 
 ## Allow channel types
 
 `bb type <text | voice | both>`
 
-: Boosters will be able to claim give type of channel (only 1 channel is allowed of available types).
+: Boosters will be able to claim a type of channel (only 1 channel is allowed for available types).
 
 ## Hide private channels
 
 `bb pcs lock @role`
 
-: Bot will disable this role's VIEW_CHANNEL permission for each private channel.
+: The bot will disable this role's VIEW_CHANNEL permission for each private channel.
 
 ## Allow access to private channels
 
 `bb pcs allow @role`
 
-: Bot will allow this role's VIEW_CHANNEL permission for new private channel. Example - if you want server managers to access all private channels (ADMINS will by default have permission to all private channels)
+: The bot will allow this role's VIEW_CHANNEL permission for new private channels. For example, if you want server managers to access all private channels (ADMINS will by default have permission to all private channels).
 
-## Boosts requried to claim private channel
+## Boosts required to claim a private channel
 
 `bb pcs boosts <count>`
 
