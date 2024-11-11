@@ -63,7 +63,7 @@ extra:
       link: "https://boosterbot.xyz/"
       name: BoosterBot website
     - icon: "fontawesome/brands/github-alt"
-      link: "https://github.com/DiabolusGX/mkdocs-boosterbot"
+      link: "https://github.com/Booster-Bot-Discord/mkdocs-boosterbot"
       name: Github repository
     - icon: "fontawesome/brands/discord"
       link: "https://boosterbot.xyz/support"
@@ -71,7 +71,7 @@ extra:
   # generator: false # to remove MkDocs footer
 
 repo_name: "boosterbot-docs"
-repo_url: "https://github.com/DiabolusGX/mkdocs-boosterbot"
+repo_url: "https://github.com/Booster-Bot-Discord/mkdocs-boosterbot"
 
 markdown_extensions:
   - admonition
