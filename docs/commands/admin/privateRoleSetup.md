@@ -4,7 +4,7 @@
 
     These commands can be executed by Admins and Bot Manager only.
 
-: The `bb prs` command allows to setup private roles perks for non booster members. Members with allowed role can use [`bb role`](/commands/boosters/role) command to claim and setup their private roles same way as boosters.
+: The `bb prs` command allows you to set up private role perks for non-booster members. Members with an allowed role can use the [`bb role`](/commands/boosters/role) command to claim and set up their private roles in the same way as boosters.
 
 ## Allow roles
 
@@ -16,7 +16,7 @@
 
 `bb prs remove @role`
 
-: If any of remove roles are removed from user and they don't have any of the allowed roles, then their private role will be deleted.
+: If any of the removed roles are taken from a user and they don't have any of the allowed roles, their private role will be deleted.
 
 ## Clear allow or remove roles
 

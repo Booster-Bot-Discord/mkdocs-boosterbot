@@ -2,8 +2,7 @@
 
 **Usage:** `bb premium` or `bb vote`
 
-The `bb vote` lets you check your available/remaining votes and avail free premium via votes.
-and you can check premium status and perks by using `bb premium` command.
+The `bb vote` lets you check your available/remaining votes and avail free premium via votes. You can also check premium status and perks by using the `bb premium` command.
 
 ## Commands
 
@@ -11,4 +10,4 @@ and you can check premium status and perks by using `bb premium` command.
 
 `bb vote donate 10`: Donates your 10 votes for premium to your server.
 
-`bb vote avail`: Avail limited time premium subscription on your server.
+`bb vote avail`: Avails limited-time premium subscription on your server.

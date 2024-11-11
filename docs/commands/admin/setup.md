@@ -2,9 +2,9 @@
 
 !!! info
 
-    These commands can be executed by Admins and Bot Manager only.
+    These commands can be executed by Admins and Bot Managers only.
 
-: The `bb [setup | set]` command allows you to setup, edit, and remove bot settings.
+: The `bb [setup | set]` command allows you to set up, edit, and remove bot settings.
 
 ## Prefix Setup Command
 
@@ -53,7 +53,7 @@ This command sets the prefix for the bot's commands.
 
 `bb setup ar <number of boosts>`
 
-: This command allows boosters with the required number of boosts to set a custom emoji that the bot will react to any message that the booster is mentioned in.
+: This command allows boosters with the required number of boosts to set a custom emoji that the bot will react to any message in which the booster is mentioned.
 
 ## Base Role
 
@@ -81,8 +81,8 @@ This command sets the prefix for the bot's commands.
 
 !!! info
 
-    **If you want to remove any config**, type `disable` in value.
-    Example : `bb setup gifts disable` will not allow anyone to gift their custom role.
+    **If you want to remove any config**, type `disable` as the value.
+    Example: `bb setup gifts disable` will prevent anyone from gifting their custom role.
 
 ## Usage
 

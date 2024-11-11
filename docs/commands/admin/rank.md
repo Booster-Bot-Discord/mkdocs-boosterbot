@@ -2,7 +2,7 @@
 
 !!! info
 
-    These commands can be executed by Admins and Bot Manager only.
+    These commands can be executed by Admins and Bot Managers only.
 
 : The `bb rank` command allows you to add or remove roles from current or all-time server boosters.
 

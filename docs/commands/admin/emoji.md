@@ -2,7 +2,7 @@
 
 !!! info
 
-    These commands can be executed by Admins and Bot Manager only.
+    These commands can be executed by Admins and Bot Managers only.
 
 The `bb emoji` command allows you to restrict certain emojis to specified roles. This means that only members with the specified role will be able to use the restricted emoji.
 

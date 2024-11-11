@@ -2,9 +2,9 @@
 
 !!! info
 
-    These commands can be executed by Admins and Bot Manager only.
+    These commands can be executed by Admins and Bot Managers only.
 
-The following commands are used to setup, edit, and remove greet configurations for your Discord server.
+The following commands are used to set up, edit, and remove greet configurations for your Discord server.
 
 ## Greet Channel
 

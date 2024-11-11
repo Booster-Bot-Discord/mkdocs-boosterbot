@@ -16,25 +16,25 @@ For boosters, the following subcommands are available:
 
 `bb role icon <image>`: This command adds or updates the icon for your custom role.
 
-`bb role hoist [disable]`: Hoise or de-hoist your custom role (if enabled).
+`bb role hoist [disable]`: Hoist or de-hoist your custom role (if enabled).
 
 `bb role delete`: This command deletes your custom role.
 
 !!! info
 
-    The commands below this can be only be used by Admins and Bot Manager.
+    The commands below this can only be used by Admins and Bot Manager.
 
 ## Admin and Bot Manager Options
 
 For admins and bot managers, the following subcommands are available:
 
-`bb role hoisting <enable | disable>`: Allow boosters to hoist their roles (if they want to)
+`bb role hoisting <enable | disable>`: Allow boosters to hoist their roles (if they want to).
 
-`bb role list-hex`: List all posisble hex codes for role color.
+`bb role list-hex`: List all possible hex codes for role color.
 
-`bb role add-hex #hex`: If set, boosters can only select these hex code.
+`bb role add-hex #hex`: If set, boosters can only select these hex codes.
 
-`bb role remove-hex #hex`: Remove hex code restriction if list is empty.
+`bb role remove-hex #hex`: Remove hex code restriction if the list is empty.
 
 `bb role prefix (c)`: This command sets the prefix `(c)` for every new role claimed.
 
