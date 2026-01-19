@@ -1,12 +1,12 @@
 # Age Role Commands
 
-**Usage:** `bb agerole <add | remove | clear | claim> <duration> [role]`
+**Usage:** `bb agerole <add | remove | clear | claim> <role> <duration>`
 
 The `bb agerole` command allows you to create booster level roles based on how long a user has been boosting the server.
 
 ## Subcommands
 
-`bb agerole add 1w @role`: This command allows boosters to claim the `@role` role after boosting for 1 week.
+`bb agerole add @role 1w`: This command allows boosters to claim the `@role` role after boosting for 1 week.
 
 `bb agerole remove 1w`: This command removes the age role for boosters who have been boosting for 1 week.
 
@@ -27,5 +27,5 @@ The `bb agerole` command allows you to create booster level roles based on how l
 -   `hour` | `hr` | `h`
 -   `day` | `d`
 -   `week` | `wk` | `w`
--   `month` | `b`
+-   `month` | `mo`
 -   `year` | `yr` | `y`
