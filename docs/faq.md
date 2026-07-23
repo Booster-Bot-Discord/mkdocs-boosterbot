@@ -22,9 +22,9 @@ However, no one can detect if someone removed 1 out of 2 boosts (not even the se
 
 It can be due to a lack of proper setup OR possible downtime.
 
--   You can add missed boosters by the command `bb boosters add @user`
+-   You can add missed boosters using the command `bb booster info @user`
 -   To further edit the number of boosts of users (1x or 2x) you need premium.
 
 In case you added Booster Bot after someone boosted 2 times, the bot will take all existing boosters' count as 1x, as Discord does not provide boost count per user to anyone.
 
-**Note:** [Premium](https://boosterbot.xyz/premium) servers can add `+2` or `-1` like: `bb boosters add @user +2` to add 2 boosts to someone.
+**Note:** [Premium](https://boosterbot.xyz/premium) servers can add `+2` or `-1` like: `bb boosts add @user 2` to add 2 boosts to someone.

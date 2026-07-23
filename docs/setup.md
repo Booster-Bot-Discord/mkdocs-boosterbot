@@ -18,7 +18,7 @@ However, there are a few things to note here -
 
     `1.` There are cases when someone boosts 2 times rapidly (1 by 1), and if the bot had any occasional lag at the same time, the bot will count that as 1 boost instead of 2.
 
-    `2.` If you've not set up the bot correctly OR the bot had any downtime, you can add missed boosters with the `bb boosters add @user` command, and the booster will be added with `1x boost`.
+    `2.` If you've not set up the bot correctly OR the bot had any downtime, you can add missed boosters using the `bb booster info @user` command, and the booster will be added with `1x boost`.
 
 ---
 
